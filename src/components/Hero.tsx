@@ -21,7 +21,7 @@ export function Hero() {
                     transition={{ duration: 0.5 }}
                 >
                     {/* Profile Picture */}
-                    <div className="relative w-40 h-40 md:w-60 md:h-60 mx-auto mb-8">
+                    <div className="relative w-45 h-45 md:w-60 md:h-60 mx-auto mb-8">
                         <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 animate-pulse blur-sm opacity-50" />
                         <div className="relative w-full h-full rounded-full p-[2px] bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500">
                             <div className="w-full h-full rounded-full overflow-hidden bg-background relative">
@@ -52,7 +52,7 @@ export function Hero() {
                             }
                         }}
                     >
-                        {Array.from("Hi, I'm ").map((char, index) => (
+                        {Array.from(" Hi, I'm  ").map((char, index) => (
                             <motion.span
                                 key={index}
                                 variants={{
