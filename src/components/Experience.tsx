@@ -7,7 +7,7 @@ const experiences = [
   {
     role: "Software Development Engineer I (SDE-1) Intern",
     company: "Angry Tale Pvt. Ltd.",
-    period: "Jan 2026 - Present",
+    period: "Jan 2026 - Jun 2026",
     description:
       "Contributing to the development of a cutting-edge e-commerce platform, focusing on backend services and API integrations. Built and shipped 4+ full-stack e-commerce features (product management, order workflows, cart UX) using Node.js, Express, and React. Collaborated with cross-functional teams to design scalable solutions, resulting in a 20% improvement in system performance.",
     type: "current",
